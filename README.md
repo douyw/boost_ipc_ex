@@ -8,12 +8,12 @@ boost::interprocess examples for qmake
 
 1. create pro/*.pro files from src/*.cpp
 
-```
-$ ruby tools/myerb.rb
-```
+  ```
+  $ ruby tools/myerb.rb
+  ```
 
 2. update boost_ipc_ex.pro
 
-```
-$ rake cog:pro
-```
+  ```
+  $ rake cog:pro
+  ```
