@@ -1,3 +1,7 @@
+# qmake temp files and destdir
+*.user
+bin
+
 # Compiled Object files
 *.slo
 *.lo
